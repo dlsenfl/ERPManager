@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.014,C:\project\Src\SkinTest\Unit1.dfm=C:\project\Src\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.014,C:\project\Src\SkinTest\Unit1.cpp=C:\project\Src\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.001,C:\project\Src\SkinTest\Project1.cbproj=C:\project\Src\SkinTest\SkinTest.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.244,C:\project\Src\SkinTest\Project1.cbproj=C:\project\Src\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.632,=C:\project\Src\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.674,C:\project\Src\SkinTest\Project1PCH1.h=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.014,C:\project\Src\SkinTest\Unit1.h=C:\project\Src\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.608,=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.978,C:\project\Src\SkinTest\Project1PCH1.h=C:\project\Src\SkinTest\SkinTestPCH1.h</Transaction>
+    <Transaction>2019-02-25 13:35:05.131,C:\project\Src\ERPManager\ERPMngPCH1.h=C:\project\Src\ERPManager\SkinTestPCH1.h</Transaction>
+    <Transaction>2019-02-25 13:35:05.155,C:\project\Src\ERPManager\ERPMng.cbproj=C:\project\Src\ERPManager\SkinTest.cbproj</Transaction>
+    <Transaction>2019-02-25 13:35:09.561,C:\project\Src\ERPManager\ERPU.cpp=C:\project\Src\ERPManager\Unit1.cpp</Transaction>
+    <Transaction>2019-02-25 13:35:09.561,C:\project\Src\ERPManager\ERPU.dfm=C:\project\Src\ERPManager\Unit1.dfm</Transaction>
+    <Transaction>2019-02-25 13:35:09.561,C:\project\Src\ERPManager\ERPU.h=C:\project\Src\ERPManager\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
